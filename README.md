@@ -1,8 +1,14 @@
 # TSP:
 travelling salesman problem using heiuristics
+input:
+How many cities do you want to generate: 5
+output:
+Coordinates {'0': [99, 76], '1': [0, 33], '2': [9, 44], '3': [33, 70], '4': [51, 94]}
+Initial state:  ['0', '1', '2', '3', '4', '0']
+distance was 238.80 km
+Final state :  ['0', '4', '3', '2', '1', '0'] 
 
-
-
+Optimized distance is 238.80 km
 # GA :-
 given number of students and generate random marks for them and then and then define 3 defaults number of groups to be formed. Then using GA we  define accordingly which group should contain how many students ....
 input:
