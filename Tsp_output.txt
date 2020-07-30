@@ -1,0 +1,8 @@
+How many cities do you want to generate: 5
+Coordinates [('0', [42, 2]), ('1', [52, 55]), ('2', [24, 75]), ('3', [76, 0]), ('4', [89, 96])]
+Initial state looked like this:  '0', '1', '2', '3', '4', '0'
+Initial distance was 381.58 km
+
+Final state looks like this:  ['0', '3', '4', '1', '2', '0']
+
+Optimized distance is 295.76 km

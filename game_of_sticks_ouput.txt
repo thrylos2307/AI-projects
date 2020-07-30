@@ -1,0 +1,87 @@
+****************************
+------STICK--GAME-----
+****************************
+
+Great! Now enter number of Sticks
+8
+
+Choose a Mode:
+
+1. HUMAN  VS HUMAN
+2. HUMAN VS AI
+3. AI vs AI
+1
+Ready to play.............
+Player 2 won toss
+Chance: Player 2
+4
+Invalid move
+Chance: Player 2
+1
+Sticks left : :  7
+Chance: Player 1
+4
+Invalid move
+Chance: Player 1
+3
+Sticks left :  4
+Chance: Player 2
+2
+Sticks left : :  2
+Chance: Player 1
+2
+Sticks left :  0
+Winner: Player 2
+---------GAME--OVER---------
+
+Input 1 to play again and 0 to exit
+1
+Great! Now enter number of Sticks
+5
+
+Choose a Mode:
+
+1. HUMAN  VS HUMAN
+2. HUMAN VS AI
+3. AI vs AI
+3
+Ready to play.............
+CPU 2 won toss
+--best-of-luck---
+Chance: CPU 2
+CPU 2 selects : 1
+Sticks left :  4
+Chance: CPU 1
+CPU 1 selects : 3
+Sticks left :  1
+Winner: CPU 1
+****GAME--OVER****
+
+Input 1 to play again and 0 to exit
+1
+Great! Now enter number of Sticks
+6
+
+Choose a Mode:
+
+1. HUMAN  VS HUMAN
+2. HUMAN VS AI
+3. AI vs AI
+2
+Ready to play.............
+CPU won toss
+--------start--------
+Chance: CPU
+CPU's move : 1
+Sticks left :  5
+Chance: Player
+2
+Sticks left :  3
+Chance: CPU
+CPU's move : 2
+Sticks left :  1
+Winner: CPU
+---------GAME--OVER---------
+
+Input 1 to play again and 0 to exit
+0
